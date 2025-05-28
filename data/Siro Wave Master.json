@@ -1,0 +1,39 @@
+{
+	"id": 95228237,
+	"name": "Siro Wave Master",
+	"tags": [
+		"Wave",
+		"Medium",
+		"Fast-Paced",
+		"Flow",
+		"Ship"
+	],
+	"author": "Awesomeme360",
+	"creators": [
+		"TheRealSiroGD"
+	],
+	"verifier": "TheRealSiroGD (not sure)",
+	"verification": "https://youtu.be/Rxb5iRPh_Gw?si=eIJKgcoL_iziW5vD",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "placeholder1",
+			"link": "https://www.youtube.com/watch?v=a7I_8dltxlc",
+			"percent": 100,
+			"hz": 0
+		},
+		{
+			"user": "placeholder2",
+			"link": "https://youtu.be/3xOeDCy6kbM",
+			"percent": 100,
+			"hz": 0
+		},
+		{
+			"user": "placeholder3",
+			"link": "https://youtu.be/uDxmoPZJdvI?feature=shared",
+			"percent": 100,
+			"hz": 0
+		}
+	]
+}
