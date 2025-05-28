@@ -1,10 +1,10 @@
 [
     {
-        "name": "1.0 Pack",
+        "name": "The Big 3",
         "levels": [
-            "xo",
-            "omorfia",
-            "conical_depression"
+            "super_sonic_speed",
+            "tip_of_the_apex",
+            "siro_wave_master"
         ],
         "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
     },
