@@ -1,0 +1,36 @@
+{
+	"id": 108727669,
+	"name": "super sonic speed",
+	"tags": [
+		"Wave",
+		"Fast-Paced"
+	],
+	"author": "ApexxDominesss",
+	"creators": [
+		"ApexxDominesss"
+	],
+	"verifier": "Zamas (i assume)",
+	"verification": "https://youtu.be/Rxb5iRPh_Gw?si=eIJKgcoL_iziW5vD",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "placeholder1",
+			"link": "https://www.youtube.com/watch?v=a7I_8dltxlc",
+			"percent": 100,
+			"hz": 0
+		},
+		{
+			"user": "placeholder2",
+			"link": "https://youtu.be/3xOeDCy6kbM",
+			"percent": 100,
+			"hz": 0
+		},
+		{
+			"user": "placeholder3",
+			"link": "https://youtu.be/uDxmoPZJdvI?feature=shared",
+			"percent": 100,
+			"hz": 0
+		}
+	]
+}
